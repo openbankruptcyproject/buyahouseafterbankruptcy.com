@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buyahouseafterbankruptcy.com/sitemapindex.xml
+Sitemap: https://buyahouseafterbankruptcy.com/sitemap.xml
